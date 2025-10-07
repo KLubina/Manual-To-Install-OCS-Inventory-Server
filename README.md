@@ -56,6 +56,14 @@ apt install ocsinventory
 chmod -R 777 /usr/share/ocsinventory-reports/ /var/lib/ocsinventory-reports/ /etc/ocsinventory-server/ /var/log/ocsinventory-server/
 ```
 
+### Access OCS Inventory
+
+**Web Interface:** `https://192.83.247.19/ocsreports`
+
+**Default Login:**
+- **Username:** `admin`
+- **Password:** `admin`
+
 ### Remove install.php
 
 ```sh
@@ -172,14 +180,6 @@ service apache2 restart
 ```
 
 ## Further Information
-
-### Access OCS Inventory
-
-**Web Interface:** `https://192.83.247.19/ocsreports`
-
-**Default Login:**
-- **Username:** `admin`
-- **Password:** `admin`
 
 ### Download Certificate File
 
