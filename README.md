@@ -58,7 +58,7 @@ chmod -R 777 /usr/share/ocsinventory-reports/ /var/lib/ocsinventory-reports/ /et
 
 ### Access OCS Inventory
 
-**Web Interface:** `https://192.83.247.19/ocsreports`
+**Web Interface:** `https://localhost/ocsreports`
 
 **Default Login:**
 - **Username:** `admin`
